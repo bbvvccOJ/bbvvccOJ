@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bbvvccOJ
+- 👀 I’m interested in software practise, hardware development.
+- 🌱 I’m currently learning GIT, C++, Python.
+- 📫 How to reach me: You can reach me by my email, alisonjefferson23@gmail.com or alisonjefferson24@gmail.com
